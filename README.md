@@ -11,7 +11,7 @@ Este repositório contém um cadastro de contatos desenvolvido em `Python`. O pr
 1. Faça o `Download` deste repositório.
 2. Dentro da pasta `Programa`, execute o arquivo `Contatos.exe`.
 
-## Funcionalidades
+## Funções
 
 ### Cadastrar Contato
 
